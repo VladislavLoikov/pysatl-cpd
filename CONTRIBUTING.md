@@ -36,7 +36,7 @@ Examples:
 
 1. Fork this repository using your GitHub account.
 2. Install `git` and clone your forked copy of the `repo`.
-3. Build project following build instructions in [README.md](./README.md) file, make sure everything is ok.
+3. Build project following build instructions in [README.md](./README.md) and [CODE_FORMATTING.md](./CODE_FORMATTING.md) file, make sure everything is ok.
 4. Run tests following instructions in [README.md](./README.md) file, make sure all tests passing.
 5. Implement new feature or fix existing one in the source code.
 6. Commit your changes.
